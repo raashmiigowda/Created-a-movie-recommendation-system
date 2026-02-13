@@ -1,0 +1,9 @@
+User selects movie
+     ↓
+Find movie index
+     ↓
+Compute similarity scores
+     ↓
+Sort highest similar movies
+     ↓
+Return top 5 recommendations
