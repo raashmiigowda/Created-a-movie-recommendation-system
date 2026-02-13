@@ -1,0 +1,11 @@
+movie-recommender/
+│
+├── backend/
+│   ├── app.py
+│   ├── model.py
+│   ├── movies.csv
+│
+├── frontend/
+│   ├── src/App.js
+│
+├── requirements.txt
