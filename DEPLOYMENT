@@ -1,0 +1,10 @@
+Backend (Render)
+
+Push to GitHub
+
+Go to Render
+
+Add:
+
+pip install -r requirements.txt
+gunicorn app:app
