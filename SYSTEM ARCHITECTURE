@@ -1,0 +1,11 @@
+[User Input]
+     ↓
+[React Frontend]
+     ↓
+[Flask Backend API]
+     ↓
+[ML Model (Similarity Matrix)]
+     ↓
+[Movie Dataset]
+     ↓
+[Recommendations Returned]
